@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="console.log(exp)">
-      <action id="EditorCut" />
-      <typing text-keycode="67:0;79:0;78:0;83:0;79:0;76:0;69:0;46:0;76:0;79:0;71:0;0:1">console.log(</typing>
-      <action id="EditorPaste" />
-    </macro>
-  </component>
-</application>
