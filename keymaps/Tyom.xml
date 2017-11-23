@@ -1,4 +1,7 @@
 <keymap version="1" name="Tyom" parent="Mac OS X 10.5+">
+  <action id="ActivateQuokkaToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
