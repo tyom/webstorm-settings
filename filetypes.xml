@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <removed_mapping ext="mjs" type="ECMAScript 6" />
+      <mapping pattern=".poirc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping ext="mjs" type="JavaScript" />
