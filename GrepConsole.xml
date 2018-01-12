@@ -132,10 +132,11 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-6676960" />
+                              <option name="color" value="-10152683" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="bold" value="true" />
                           <option name="id" value="a8e03274-032b-4798-9af6-5c7b82e729cf" />
                         </GrepStyle>
                       </option>
@@ -150,10 +151,11 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-10531798" />
+                              <option name="color" value="-11584473" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="bold" value="true" />
                           <option name="id" value="d6611ce2-7095-4608-b944-6f527f0f6c03" />
                         </GrepStyle>
                       </option>
