@@ -109,7 +109,6 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="fold" value="true" />
                       <option name="grepExpression" value="info: .*" />
                       <option name="id" value="2f0ebb31-642c-457a-99b5-9d40dc9e830d" />
                       <option name="style">
