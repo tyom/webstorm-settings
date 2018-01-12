@@ -5,6 +5,8 @@
         <Profile>
           <option name="defaultProfile" value="true" />
           <option name="enableFoldings" value="true" />
+          <option name="enableMaxLengthGrepLimit" value="false" />
+          <option name="enableMaxLengthLimit" value="false" />
           <option name="filterOutBeforeGrep" value="true" />
           <option name="grepExpressionGroups">
             <list>
@@ -153,6 +155,23 @@
                             </GrepColor>
                           </option>
                           <option name="id" value="d6611ce2-7095-4608-b944-6f527f0f6c03" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value="\{.*|\s{2}.*" />
+                      <option name="id" value="8ccfb0b8-d2a1-4a0a-95dc-7351eda29014" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="3fdc88d8-79f3-4706-828d-f372f6a98a99" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
