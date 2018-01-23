@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Source" />
-    <option name="defaultScopeName" value="Project Source" />
+    <option name="customScope" value="Project unit tests" />
+    <option name="defaultScopeName" value="Project unit tests" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Source" />
+    <option name="SEARCH_SCOPE" value="Project unit tests" />
   </component>
 </application>
