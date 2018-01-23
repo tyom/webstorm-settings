@@ -8,25 +8,22 @@
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping ext="mjs" type="JavaScript" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
-      <mapping pattern="main-content-12md" type="PLAIN_TEXT" />
       <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="_colours" type="PLAIN_TEXT" />
+      <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern="aliases" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".eslint" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="callout-service-link-12md" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern=".stylelint" type="StyleLint file" />
       <mapping ext="njk" type="Twig" />
       <mapping ext="nunj" type="Twig" />
       <mapping ext="nunjucks" type="Twig" />
       <mapping ext="swig" type="Twig" />
-      <mapping pattern=".stylelint" type="StyleLint file" />
     </extensionMap>
   </component>
 </application>
