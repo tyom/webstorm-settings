@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="mjs" type="ECMAScript 6" />
       <mapping pattern=".poirc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
@@ -19,6 +20,7 @@
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="css" type="PostCSS" />
       <mapping pattern=".stylelint" type="StyleLint file" />
       <mapping ext="njk" type="Twig" />
       <mapping ext="nunj" type="Twig" />
