@@ -162,6 +162,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value="\{.*|\s{2}.*" />
                       <option name="id" value="8ccfb0b8-d2a1-4a0a-95dc-7351eda29014" />
