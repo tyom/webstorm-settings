@@ -15,7 +15,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="qq" value="/*?*/" description="Quokka live comment" toReformat="false" toShortenFQNames="true">
+  <template name="q" value="/*?*/" description="Quokka live comment" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
