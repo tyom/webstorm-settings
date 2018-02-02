@@ -8,5 +8,9 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/react-test-renderer" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
   </component>
 </application>
