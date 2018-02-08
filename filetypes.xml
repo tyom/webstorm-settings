@@ -2,31 +2,28 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="Dockerfile.dev" type="Dockerfile" />
-      <mapping pattern="Dockerfile.prod" type="Dockerfile" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="mjs" type="ECMAScript 6" />
       <mapping pattern=".poirc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping ext="mjs" type="JavaScript" />
-      <mapping pattern=".eslint" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="aliases" type="PLAIN_TEXT" />
-      <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="aliases" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="zshrc" type="PLAIN_TEXT" />
+      <mapping pattern=".eslint" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping pattern=".stylelint" type="StyleLint file" />
       <mapping ext="njk" type="Twig" />
+      <mapping ext="nunj" type="Twig" />
       <mapping ext="nunjucks" type="Twig" />
       <mapping ext="swig" type="Twig" />
-      <mapping ext="nunj" type="Twig" />
     </extensionMap>
   </component>
 </application>
