@@ -11,6 +11,7 @@
       <mapping pattern=".eslint" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="run-integration" type="PLAIN_TEXT" />
       <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern="aliases" type="PLAIN_TEXT" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
