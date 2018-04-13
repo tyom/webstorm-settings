@@ -9,6 +9,7 @@
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping ext="mjs" type="JavaScript" />
+      <mapping pattern="c,k" type="PLAIN_TEXT" />
       <mapping pattern=".eslint" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
