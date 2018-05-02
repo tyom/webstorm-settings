@@ -14,6 +14,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="27099583-2eca-4ae6-9c94-bc92d8901c44" />
                       <option name="style">
@@ -35,6 +36,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="302155f7-95f0-438a-85c6-078a5ef827df" />
                       <option name="style">
@@ -55,6 +57,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="ccfb8182-6bd4-4da2-815e-6fe9c7e2881f" />
                       <option name="style">
@@ -75,6 +78,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="65fa7831-47d3-44e0-8159-a93d1fc75108" />
                       <option name="style">
@@ -90,6 +94,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="4ecb0f2c-457c-4cfe-8f38-6970fe336831" />
                       <option name="style">
@@ -111,6 +116,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*?info: .*" />
                       <option name="id" value="2f0ebb31-642c-457a-99b5-9d40dc9e830d" />
                       <option name="style">
@@ -125,6 +131,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".* error: .*" />
                       <option name="id" value="274ee4f1-0b13-4a94-82af-0e60835c6279" />
                       <option name="showCountInStatusBar" value="true" />
@@ -143,6 +150,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".* validation: .*" />
                       <option name="id" value="b8f4471a-63ea-40e8-88f9-598727967394" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
