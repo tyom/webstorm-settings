@@ -1,7 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" shouldLog="false" />
-    <notification groupId="Wallaby Expired License" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Wallaby License" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Wallaby Expired License" displayType="NONE" shouldLog="false" />
+    <notification groupId="Wallaby License" displayType="NONE" shouldLog="false" />
   </component>
 </application>
