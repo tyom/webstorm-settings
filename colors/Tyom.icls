@@ -4,14 +4,15 @@
     <property name="created">2018-01-22T14:10:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-01-22T14:13:39</property>
+    <property name="modified">2018-07-21T18:39:51</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <attributes>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
