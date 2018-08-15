@@ -6,6 +6,8 @@
       <mapping pattern=".poirc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
+      <mapping pattern="sync-images" type="JavaScript" />
+      <mapping pattern="s3-upload" type="JavaScript" />
       <mapping pattern=".postcss-loader" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
