@@ -1,4 +1,5 @@
 <code_scheme name="Tyom (Dracula)" version="173">
+  <option name="SOFT_MARGINS" value="80" />
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
