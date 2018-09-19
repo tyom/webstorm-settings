@@ -6,28 +6,29 @@
       <mapping pattern=".poirc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
+      <mapping pattern="generate-store-locations" type="JavaScript" />
       <mapping pattern="sync-images" type="JavaScript" />
       <mapping pattern="s3-upload" type="JavaScript" />
+      <mapping pattern=".postcss-loader" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="run-integration" type="PLAIN_TEXT" />
+      <mapping pattern="zshrc" type="PLAIN_TEXT" />
+      <mapping pattern="aliases" type="PLAIN_TEXT" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="aliases" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern="zshrc" type="PLAIN_TEXT" />
-      <mapping pattern=".postcss-loader" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="run-integration" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="envs" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="envs" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
-      <mapping ext="nunj" type="Twig" />
       <mapping ext="nunjucks" type="Twig" />
-      <mapping ext="liquid" type="Twig" />
       <mapping ext="swig" type="Twig" />
+      <mapping ext="nunj" type="Twig" />
+      <mapping ext="liquid" type="Twig" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
