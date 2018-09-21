@@ -6,14 +6,15 @@
       <mapping pattern=".poirc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
+      <mapping pattern="xlsx-to-json" type="JavaScript" />
       <mapping pattern="sync-images" type="JavaScript" />
       <mapping pattern="s3-upload" type="JavaScript" />
       <mapping pattern=".postcss-loader" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="run-integration" type="PLAIN_TEXT" />
-      <mapping pattern="zshrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="aliases" type="PLAIN_TEXT" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
       <mapping pattern=".env_example" type="PLAIN_TEXT" />
