@@ -3,12 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/GlobalFooter/GlobalFooter.vue" timestamp="1540987358310">
+        <mark key="[" line="115" column="14" />
+        <mark key="]" line="116" column="14" />
+        <mark key="." line="116" column="14" />
+        <mark key="^" line="116" column="14" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ServiceFeatures/ServiceFeatures.vue" timestamp="1540985433180">
         <mark key="'" line="44" column="19" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/global.js" timestamp="1540987019237">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="29" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/StoreFinder/StoreFinderResults.vue" timestamp="1540986153402">
         <mark key="[" line="174" column="17" />
@@ -21,14 +33,26 @@
       <jump line="44" column="19" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ServiceFeatures/ServiceFeatures.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAubmF2LXNlY3Rpb24gKyAubmF2LXNlY3Rpb24sCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAubmF2LXNlY3Rpb24gKyAubmF2LXNlY3Rpb24sCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>52</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>links</text>
       </register>
     </registers>
     <search>
@@ -41,6 +65,8 @@
         <entry>5</entry>
         <entry>2</entry>
         <entry>52</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
