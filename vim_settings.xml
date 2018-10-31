@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/HeroUnit/index.js" timestamp="1541006087639">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/GlobalHeader/GlobalHeader.vue" timestamp="1541001817086">
         <mark key="[" line="15" column="72" />
         <mark key="]" line="15" column="71" />
@@ -21,27 +26,37 @@
         <mark key="." line="174" column="20" />
         <mark key="^" line="174" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/index.js" timestamp="1541001173999">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" timestamp="1541005996401">
+        <mark key="]" line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/HeroUnit/HeroUnit.vue" timestamp="1541006100813">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/index.js" timestamp="1541004855006">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
+        <mark key="^" line="19" column="6" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/GlobalNav/GlobalNav.vue" timestamp="1541001740994">
         <mark key="]" line="12" column="9" />
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ServiceFeatures/ServiceFeatures.vue" timestamp="1540985433180">
-        <mark key="'" line="44" column="19" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/index.js" timestamp="1541004250745">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541001081626">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/ui-messages.js" timestamp="1541004489995">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541006189780">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541002521236">
         <mark key="p" line="0" column="0" />
@@ -56,40 +71,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICAgIDxIZXJvVW5pdCA6aW1nPSJoZXJvSW1hZ2UiPgogICAgICA8aDEgY2xhc3M9InUtaGVhZGluZy1sZyB1LXRleHQtd2hpdGUiPgogICAgICAgIHt7ICR0KCdob21lLmhlcm8uaGVhZGluZycpIH19CiAgICAgIDwvaDE+CiAgICAgIDxWU3BsaXRWYXJpYW50IG5hbWU9ImJ1eS1idXR0b24iIGVsZW1lbnQ9InAiPgogICAgICAgIDxWQnV0dG9uCiAgICAgICAgICBzbG90PSJhIgogICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbgogICAgICAgICAgc2xvdD0iYiIKICAgICAgICAgIHZhcmlhbnQ9InNlY29uZGFyeSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbiB2YXJpYW50PSJwcmltYXJ5IiBAY2xpY2s9ImdvVG9NYXR0cmVzc2VzIj4KICAgICAgICAgIHt7ICR0KCdob21lLmhlcm8uY3RhJykgfX0KICAgICAgICA8L1ZCdXR0b24+CiAgICAgIDwvVlNwbGl0VmFyaWFudD4KICAgIDwvSGVyb1VuaXQ+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICAgIDxIZXJvVW5pdCA6aW1nPSJoZXJvSW1hZ2UiPgogICAgICA8aDEgY2xhc3M9InUtaGVhZGluZy1sZyB1LXRleHQtd2hpdGUiPgogICAgICAgIHt7ICR0KCdob21lLmhlcm8uaGVhZGluZycpIH19CiAgICAgIDwvaDE+CiAgICAgIDxWU3BsaXRWYXJpYW50IG5hbWU9ImJ1eS1idXR0b24iIGVsZW1lbnQ9InAiPgogICAgICAgIDxWQnV0dG9uCiAgICAgICAgICBzbG90PSJhIgogICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbgogICAgICAgICAgc2xvdD0iYiIKICAgICAgICAgIHZhcmlhbnQ9InNlY29uZGFyeSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbiB2YXJpYW50PSJwcmltYXJ5IiBAY2xpY2s9ImdvVG9NYXR0cmVzc2VzIj4KICAgICAgICAgIHt7ICR0KCdob21lLmhlcm8uY3RhJykgfX0KICAgICAgICA8L1ZCdXR0b24+CiAgICAgIDwvVlNwbGl0VmFyaWFudD4KICAgIDwvSGVyb1VuaXQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7eyBsaW5rLmxhYmVsIH19Cg==</text>
+        <text encoding="base64">ICBjdGE6ICdTaG9wIHRoZSBtYXR0cmVzcycsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVkxvY2FsZUxpbms+Cg==</text>
+        <text encoding="base64">ICBoZWFkaW5nOiAnV2FrZSB1cCB0byBhIGJldHRlciBuaWdodOKAmXMgc2xlZXAnLAogIGN0YTogJ1Nob3AgdGhlIG1hdHRyZXNzJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAge3sgc2VjdGlvbkl0ZW0ubGFiZWwgfX0K</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvVkxvY2FsZUxpbms+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvVkxvY2FsZUxpbms+Cg==</text>
+        <text encoding="base64">ICAgIGluZGV4OiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgJHQoJ2dsb2JhbEhlYWRlci5yZXZpZXdzJykgfX0K</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvVkxvY2FsZUxpbms+Cg==</text>
+        <text encoding="base64">ICAgIGluZGV4OiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgaXRlbS5sYWJlbCB9fQo=</text>
+        <text encoding="base64">ICAgICAgaGVhZGluZzogJ1dha2UgdXAgdG8gYSBiZXR0ZXIgbmlnaHTigJlzIHNsZWVwJywKICAgICAgY3RhOiAnU2hvcCB0aGUgbWF0dHJlc3MnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>links</text>
+        <text>components</text>
       </register>
     </registers>
     <search>
@@ -114,6 +129,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
