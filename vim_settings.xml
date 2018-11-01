@@ -32,12 +32,12 @@
         <mark key="." line="174" column="20" />
         <mark key="^" line="174" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" timestamp="1541068774915">
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" timestamp="1541069163091">
         <mark key="'" line="16" column="1" />
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="22" column="24" />
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/HeroUnit/HeroUnit.vue" timestamp="1541008342308">
         <mark key="[" line="20" column="2" />
@@ -144,7 +144,7 @@
         <text encoding="base64">ICAgIGluZGV4OiB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set showmode!</text>
       </register>
     </registers>
     <search>
@@ -168,6 +168,12 @@
         <entry>d28</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>set rnu</entry>
+        <entry>unset rnu</entry>
+        <entry>set rnu!</entry>
+        <entry>set smd</entry>
+        <entry>set showmode</entry>
+        <entry>set showmode!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
