@@ -45,6 +45,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/css/_settings.css" timestamp="1541073554912">
+        <mark key="[" line="52" column="51" />
+        <mark key="]" line="54" column="59" />
+        <mark key="^" line="54" column="59" />
+        <mark key="." line="54" column="59" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/index.js" timestamp="1541004855006">
         <mark key="[" line="17" column="1" />
         <mark key="]" line="19" column="6" />
@@ -64,20 +70,20 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541066179123">
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541071582449">
         <mark key="'" line="24" column="8" />
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="6" column="44" />
-        <mark key="^" line="6" column="44" />
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541069305635">
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541073338322">
         <mark key="p" line="0" column="0" />
-        <mark key="'" line="19" column="14" />
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="19" />
-        <mark key="^" line="44" column="19" />
-        <mark key="." line="44" column="19" />
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="145" column="23" />
+        <mark key="]" line="147" column="11" />
+        <mark key="^" line="147" column="11" />
+        <mark key="." line="147" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -102,49 +108,51 @@
       <jump line="3" column="23" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
       <jump line="19" column="14" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
       <jump line="16" column="1" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" />
+      <jump line="107" column="2" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="77" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAxMHJlbTsK</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>aaa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRpdGxlOiAnU2ltYmEgSHlicmlkwq4gTWF0dHJlc3MnLAogICAgICAgIHByaWNlOiAnRnJvbSDCozM3OScsCiAgICAgICAgaW1hZ2U6ICcnLAogICAgICB9LAo=</text>
+        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMT57eyBoZWFkaW5nIH19PC9oMT4K</text>
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAxMHJlbTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgaGVyb0ltYWdlOiB7CiAgICAgICAgc3JjOiAnZmx1ZmZ5LWtpdHRlbi5qcGcnLAogICAgICAgIG9wdGlvbnM6IHsgdzogMTI4MCwgaDogODAwLCBmaXQ6ICdjcm9wJywgY3JvcDogJ2xlZnQnIH0sCiAgICAgICAgYWx0OiAnU2ltYmEgcHJvZHVjdHMnLAogICAgICB9LAogICAgfTsKICB9LAogIG1ldGhvZHM6IHsKICAgIGdvVG9NYXR0cmVzc2VzKGV2dCkgewogICAgICB0aGlzLiRlbWl0KCd2YXJpYW50LWludGVyYWN0JywgZXZ0KTsKCiAgICAgIHRoaXMuJHJvdXRlci5wdXNoKAogICAgICAgIHRoaXMubG9jYWxlUGF0aCh7CiAgICAgICAgICBuYW1lOiAncHJvZHVjdHMtdHlwZS1oYW5kbGUnLAogICAgICAgICAgcGFyYW1zOiB7IHR5cGU6ICdtYXR0cmVzc2VzJywgaGFuZGxlOiAnbWF0dHJlc3MnIH0sCiAgICAgICAgfSksCiAgICAgICk7CiAgICB9LAogIH0sCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgaGVyb0ltYWdlOiB7CiAgICAgICAgc3JjOiAnZmx1ZmZ5LWtpdHRlbi5qcGcnLAogICAgICAgIG9wdGlvbnM6IHsgdzogMTI4MCwgaDogODAwLCBmaXQ6ICdjcm9wJywgY3JvcDogJ2xlZnQnIH0sCiAgICAgICAgYWx0OiAnU2ltYmEgcHJvZHVjdHMnLAogICAgICB9LAogICAgfTsKICB9LAogIG1ldGhvZHM6IHsKICAgIGdvVG9NYXR0cmVzc2VzKGV2dCkgewogICAgICB0aGlzLiRlbWl0KCd2YXJpYW50LWludGVyYWN0JywgZXZ0KTsKCiAgICAgIHRoaXMuJHJvdXRlci5wdXNoKAogICAgICAgIHRoaXMubG9jYWxlUGF0aCh7CiAgICAgICAgICBuYW1lOiAncHJvZHVjdHMtdHlwZS1oYW5kbGUnLAogICAgICAgICAgcGFyYW1zOiB7IHR5cGU6ICdtYXR0cmVzc2VzJywgaGFuZGxlOiAnbWF0dHJlc3MnIH0sCiAgICAgICAgfSksCiAgICAgICk7CiAgICB9LAogIH0sCiAgbGF5b3V0OiAnc2hvcCcsCn07Cjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxIZXJvVW5pdCA6aW1nPSJoZXJvSW1hZ2UiPgogICAgICA8aDEgY2xhc3M9InUtaGVhZGluZy1sZyB1LXRleHQtd2hpdGUiPgogICAgICAgIHt7ICR0KCdob21lLmhlcm8uaGVhZGluZycpIH19CiAgICAgIDwvaDE+CiAgICAgIDxWU3BsaXRWYXJpYW50IG5hbWU9ImJ1eS1idXR0b24iIGVsZW1lbnQ9InAiPgogICAgICAgIDxWQnV0dG9uCiAgICAgICAgICBzbG90PSJhIgogICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbgogICAgICAgICAgc2xvdD0iYiIKICAgICAgICAgIHZhcmlhbnQ9InNlY29uZGFyeSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbiB2YXJpYW50PSJwcmltYXJ5IiBAY2xpY2s9ImdvVG9NYXR0cmVzc2VzIj4KICAgICAgICAgIHt7ICR0KCdob21lLmhlcm8uY3RhJykgfX0KICAgICAgICA8L1ZCdXR0b24+CiAgICAgIDwvVlNwbGl0VmFyaWFudD4KICAgIDwvSGVyb1VuaXQ+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjdGE6ICdTaG9wIHRoZSBtYXR0cmVzcycsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBoZWFkaW5nOiAnV2FrZSB1cCB0byBhIGJldHRlciBuaWdodOKAmXMgc2xlZXAnLAogIGN0YTogJ1Nob3AgdGhlIG1hdHRyZXNzJywK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBtYXJnaW46IDJyZW07Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAxMDAlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAxMHJlbTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiBjYWxjKDEwMCUgLSAycmVtKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluZGV4OiB7Cg==</text>
+        <text encoding="base64">ICBtYXJnaW46IDFyZW07Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -152,7 +160,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -166,15 +174,16 @@
         <entry>10v</entry>
         <entry>v28</entry>
         <entry>d28</entry>
-        <entry>w</entry>
         <entry>set rnu</entry>
         <entry>unset rnu</entry>
         <entry>set rnu!</entry>
         <entry>set smd</entry>
         <entry>set showmode</entry>
         <entry>set showmode!</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>m77</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
