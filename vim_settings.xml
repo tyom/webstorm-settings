@@ -8,6 +8,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/SquiggleHeader/SquiggleHeader.vue" timestamp="1541066302547">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/GlobalHeader/GlobalHeader.vue" timestamp="1541001817086">
         <mark key="[" line="15" column="72" />
         <mark key="]" line="15" column="71" />
@@ -26,10 +32,12 @@
         <mark key="." line="174" column="20" />
         <mark key="^" line="174" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" timestamp="1541005996401">
-        <mark key="]" line="17" column="2" />
-        <mark key="^" line="17" column="2" />
-        <mark key="." line="17" column="2" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" timestamp="1541068774915">
+        <mark key="'" line="16" column="1" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/HeroUnit/HeroUnit.vue" timestamp="1541008342308">
         <mark key="[" line="20" column="2" />
@@ -56,19 +64,20 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541008727207">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541066179123">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541002521236">
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541068855838">
         <mark key="p" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="'" line="19" column="14" />
+        <mark key="[" line="41" column="7" />
+        <mark key="]" line="41" column="6" />
+        <mark key="^" line="41" column="6" />
+        <mark key="." line="41" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -82,61 +91,83 @@
       <jump line="8" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" />
       <jump line="9" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" />
       <jump line="15" column="8" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" />
+      <jump line="2" column="5" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="6" column="6" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="13" column="41" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="17" column="4" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="28" column="3" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="10" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="39" column="2" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="3" column="23" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="19" column="14" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="16" column="1" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgaGVyb0ltYWdlOiB7CiAgICAgICAgc3JjOiAnZmx1ZmZ5LWtpdHRlbi5qcGcnLAogICAgICAgIG9wdGlvbnM6IHsgdzogMTI4MCwgaDogODAwLCBmaXQ6ICdjcm9wJywgY3JvcDogJ2xlZnQnIH0sCiAgICAgICAgYWx0OiAnU2ltYmEgcHJvZHVjdHMnLAogICAgICB9LAogICAgfTsKICB9LAogIG1ldGhvZHM6IHsKICAgIGdvVG9NYXR0cmVzc2VzKGV2dCkgewogICAgICB0aGlzLiRlbWl0KCd2YXJpYW50LWludGVyYWN0JywgZXZ0KTsKCiAgICAgIHRoaXMuJHJvdXRlci5wdXNoKAogICAgICAgIHRoaXMubG9jYWxlUGF0aCh7CiAgICAgICAgICBuYW1lOiAncHJvZHVjdHMtdHlwZS1oYW5kbGUnLAogICAgICAgICAgcGFyYW1zOiB7IHR5cGU6ICdtYXR0cmVzc2VzJywgaGFuZGxlOiAnbWF0dHJlc3MnIH0sCiAgICAgICAgfSksCiAgICAgICk7CiAgICB9LAogIH0sCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIDw=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgaGVyb0ltYWdlOiB7CiAgICAgICAgc3JjOiAnZmx1ZmZ5LWtpdHRlbi5qcGcnLAogICAgICAgIG9wdGlvbnM6IHsgdzogMTI4MCwgaDogODAwLCBmaXQ6ICdjcm9wJywgY3JvcDogJ2xlZnQnIH0sCiAgICAgICAgYWx0OiAnU2ltYmEgcHJvZHVjdHMnLAogICAgICB9LAogICAgfTsKICB9LAogIG1ldGhvZHM6IHsKICAgIGdvVG9NYXR0cmVzc2VzKGV2dCkgewogICAgICB0aGlzLiRlbWl0KCd2YXJpYW50LWludGVyYWN0JywgZXZ0KTsKCiAgICAgIHRoaXMuJHJvdXRlci5wdXNoKAogICAgICAgIHRoaXMubG9jYWxlUGF0aCh7CiAgICAgICAgICBuYW1lOiAncHJvZHVjdHMtdHlwZS1oYW5kbGUnLAogICAgICAgICAgcGFyYW1zOiB7IHR5cGU6ICdtYXR0cmVzc2VzJywgaGFuZGxlOiAnbWF0dHJlc3MnIH0sCiAgICAgICAgfSksCiAgICAgICk7CiAgICB9LAogIH0sCiAgbGF5b3V0OiAnc2hvcCcsCn07Cjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxIZXJvVW5pdCA6aW1nPSJoZXJvSW1hZ2UiPgogICAgICA8aDEgY2xhc3M9InUtaGVhZGluZy1sZyB1LXRleHQtd2hpdGUiPgogICAgICAgIHt7ICR0KCdob21lLmhlcm8uaGVhZGluZycpIH19CiAgICAgIDwvaDE+CiAgICAgIDxWU3BsaXRWYXJpYW50IG5hbWU9ImJ1eS1idXR0b24iIGVsZW1lbnQ9InAiPgogICAgICAgIDxWQnV0dG9uCiAgICAgICAgICBzbG90PSJhIgogICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbgogICAgICAgICAgc2xvdD0iYiIKICAgICAgICAgIHZhcmlhbnQ9InNlY29uZGFyeSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbiB2YXJpYW50PSJwcmltYXJ5IiBAY2xpY2s9ImdvVG9NYXR0cmVzc2VzIj4KICAgICAgICAgIHt7ICR0KCdob21lLmhlcm8uY3RhJykgfX0KICAgICAgICA8L1ZCdXR0b24+CiAgICAgIDwvVlNwbGl0VmFyaWFudD4KICAgIDwvSGVyb1VuaXQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjdGE6ICdTaG9wIHRoZSBtYXR0cmVzcycsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBoZWFkaW5nOiAnV2FrZSB1cCB0byBhIGJldHRlciBuaWdodOKAmXMgc2xlZXAnLAogIGN0YTogJ1Nob3AgdGhlIG1hdHRyZXNzJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGluZGV4OiB7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>d28</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIDw=</text>
+        <text>+</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRpdGxlOiAnU2ltYmEgSHlicmlkwq4gTWF0dHJlc3MnLAogICAgICAgIHByaWNlOiAnRnJvbSDCozM3OScsCiAgICAgICAgaW1hZ2U6ICcnLAogICAgICB9LAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxoMT57eyBoZWFkaW5nIH19PC9oMT4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgaGVyb0ltYWdlOiB7CiAgICAgICAgc3JjOiAnZmx1ZmZ5LWtpdHRlbi5qcGcnLAogICAgICAgIG9wdGlvbnM6IHsgdzogMTI4MCwgaDogODAwLCBmaXQ6ICdjcm9wJywgY3JvcDogJ2xlZnQnIH0sCiAgICAgICAgYWx0OiAnU2ltYmEgcHJvZHVjdHMnLAogICAgICB9LAogICAgfTsKICB9LAogIG1ldGhvZHM6IHsKICAgIGdvVG9NYXR0cmVzc2VzKGV2dCkgewogICAgICB0aGlzLiRlbWl0KCd2YXJpYW50LWludGVyYWN0JywgZXZ0KTsKCiAgICAgIHRoaXMuJHJvdXRlci5wdXNoKAogICAgICAgIHRoaXMubG9jYWxlUGF0aCh7CiAgICAgICAgICBuYW1lOiAncHJvZHVjdHMtdHlwZS1oYW5kbGUnLAogICAgICAgICAgcGFyYW1zOiB7IHR5cGU6ICdtYXR0cmVzc2VzJywgaGFuZGxlOiAnbWF0dHJlc3MnIH0sCiAgICAgICAgfSksCiAgICAgICk7CiAgICB9LAogIH0sCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgaGVyb0ltYWdlOiB7CiAgICAgICAgc3JjOiAnZmx1ZmZ5LWtpdHRlbi5qcGcnLAogICAgICAgIG9wdGlvbnM6IHsgdzogMTI4MCwgaDogODAwLCBmaXQ6ICdjcm9wJywgY3JvcDogJ2xlZnQnIH0sCiAgICAgICAgYWx0OiAnU2ltYmEgcHJvZHVjdHMnLAogICAgICB9LAogICAgfTsKICB9LAogIG1ldGhvZHM6IHsKICAgIGdvVG9NYXR0cmVzc2VzKGV2dCkgewogICAgICB0aGlzLiRlbWl0KCd2YXJpYW50LWludGVyYWN0JywgZXZ0KTsKCiAgICAgIHRoaXMuJHJvdXRlci5wdXNoKAogICAgICAgIHRoaXMubG9jYWxlUGF0aCh7CiAgICAgICAgICBuYW1lOiAncHJvZHVjdHMtdHlwZS1oYW5kbGUnLAogICAgICAgICAgcGFyYW1zOiB7IHR5cGU6ICdtYXR0cmVzc2VzJywgaGFuZGxlOiAnbWF0dHJlc3MnIH0sCiAgICAgICAgfSksCiAgICAgICk7CiAgICB9LAogIH0sCiAgbGF5b3V0OiAnc2hvcCcsCn07Cjwvc2NyaXB0Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxIZXJvVW5pdCA6aW1nPSJoZXJvSW1hZ2UiPgogICAgICA8aDEgY2xhc3M9InUtaGVhZGluZy1sZyB1LXRleHQtd2hpdGUiPgogICAgICAgIHt7ICR0KCdob21lLmhlcm8uaGVhZGluZycpIH19CiAgICAgIDwvaDE+CiAgICAgIDxWU3BsaXRWYXJpYW50IG5hbWU9ImJ1eS1idXR0b24iIGVsZW1lbnQ9InAiPgogICAgICAgIDxWQnV0dG9uCiAgICAgICAgICBzbG90PSJhIgogICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbgogICAgICAgICAgc2xvdD0iYiIKICAgICAgICAgIHZhcmlhbnQ9InNlY29uZGFyeSIKICAgICAgICAgIEBjbGljaz0iZ29Ub01hdHRyZXNzZXMiCiAgICAgICAgPgogICAgICAgICAge3sgJHQoJ2hvbWUuaGVyby5jdGEnKSB9fQogICAgICAgIDwvVkJ1dHRvbj4KICAgICAgICA8VkJ1dHRvbiB2YXJpYW50PSJwcmltYXJ5IiBAY2xpY2s9ImdvVG9NYXR0cmVzc2VzIj4KICAgICAgICAgIHt7ICR0KCdob21lLmhlcm8uY3RhJykgfX0KICAgICAgICA8L1ZCdXR0b24+CiAgICAgIDwvVlNwbGl0VmFyaWFudD4KICAgIDwvSGVyb1VuaXQ+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjdGE6ICdTaG9wIHRoZSBtYXR0cmVzcycsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBoZWFkaW5nOiAnV2FrZSB1cCB0byBhIGJldHRlciBuaWdodOKAmXMgc2xlZXAnLAogIGN0YTogJ1Nob3AgdGhlIG1hdHRyZXNzJywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGluZGV4OiB7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</entry>
+      </history-search>
       <history-cmd>
         <entry>5</entry>
         <entry>2</entry>
         <entry>52</entry>
-        <entry>wq</entry>
-        <entry>w</entry>
         <entry>34gv</entry>
         <entry>10v</entry>
         <entry>v28</entry>
         <entry>d28</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -153,6 +184,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
