@@ -70,15 +70,15 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541071582449">
-        <mark key="'" line="59" column="8" />
+        <mark key="'" line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541073338322">
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541079372982">
         <mark key="p" line="0" column="0" />
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="145" column="23" />
-        <mark key="]" line="147" column="11" />
-        <mark key="^" line="147" column="11" />
-        <mark key="." line="147" column="11" />
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="27" column="9" />
+        <mark key="^" line="27" column="9" />
+        <mark key="." line="27" column="9" />
       </file>
     </filemarks>
     <jumps>
