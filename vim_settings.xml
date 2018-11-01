@@ -71,13 +71,13 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541068855838">
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541069305635">
         <mark key="p" line="0" column="0" />
         <mark key="'" line="19" column="14" />
-        <mark key="[" line="41" column="7" />
-        <mark key="]" line="41" column="6" />
-        <mark key="^" line="41" column="6" />
-        <mark key="." line="41" column="6" />
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="19" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="44" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -144,7 +144,7 @@
         <text encoding="base64">ICAgIGluZGV4OiB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set showmode!</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -166,7 +166,6 @@
         <entry>10v</entry>
         <entry>v28</entry>
         <entry>d28</entry>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry>set rnu</entry>
         <entry>unset rnu</entry>
@@ -174,6 +173,8 @@
         <entry>set smd</entry>
         <entry>set showmode</entry>
         <entry>set showmode!</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
