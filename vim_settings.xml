@@ -12,12 +12,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/css/util.css" timestamp="1541085195555">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="42" column="47" />
-        <mark key="^" line="42" column="47" />
-        <mark key="." line="42" column="47" />
-      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/YotpoReviews/YotpoReviews.vue" timestamp="1541087534527">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="83" column="0" />
@@ -35,32 +29,6 @@
         <mark key="]" line="15" column="71" />
         <mark key="^" line="15" column="71" />
         <mark key="." line="15" column="71" />
-      </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/global.js" timestamp="1540987019237">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-      </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/StoreFinder/StoreFinderResults.vue" timestamp="1540986153402">
-        <mark key="[" line="174" column="17" />
-        <mark key="]" line="174" column="20" />
-        <mark key="." line="174" column="20" />
-        <mark key="^" line="174" column="20" />
-      </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/InStores/InStores.vue" timestamp="1541160090126">
-        <mark key="p" line="0" column="0" />
-        <mark key="i" line="0" column="0" />
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="6" />
-        <mark key="." line="23" column="7" />
-      </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/VButton/VButton.vue" timestamp="1541158383500">
-        <mark key="[" line="115" column="16" />
-        <mark key="]" line="115" column="17" />
-        <mark key="^" line="115" column="17" />
-        <mark key="." line="115" column="17" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" timestamp="1541086208850">
         <mark key="'" line="16" column="1" />
@@ -87,20 +55,6 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/index.js" timestamp="1541004855006">
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="19" column="6" />
-        <mark key="." line="19" column="6" />
-        <mark key="^" line="19" column="6" />
-      </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/GlobalNav/GlobalNav.vue" timestamp="1541001740994">
-        <mark key="]" line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/index.js" timestamp="1541004250745">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/ui-messages.js" timestamp="1541004489995">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -118,6 +72,55 @@
         <mark key="]" line="65" column="0" />
         <mark key="^" line="7" column="23" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/css/util.css" timestamp="1541085195555">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="42" column="47" />
+        <mark key="^" line="42" column="47" />
+        <mark key="." line="42" column="47" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/global.js" timestamp="1540987019237">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/StoreFinder/StoreFinderResults.vue" timestamp="1540986153402">
+        <mark key="[" line="174" column="17" />
+        <mark key="]" line="174" column="20" />
+        <mark key="." line="174" column="20" />
+        <mark key="^" line="174" column="20" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/InStores/InStores.vue" timestamp="1541166506303">
+        <mark key="p" line="0" column="0" />
+        <mark key="i" line="0" column="0" />
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="7" />
+        <mark key="^" line="26" column="6" />
+        <mark key="." line="26" column="7" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/VButton/VButton.vue" timestamp="1541158383500">
+        <mark key="[" line="115" column="16" />
+        <mark key="]" line="115" column="17" />
+        <mark key="^" line="115" column="17" />
+        <mark key="." line="115" column="17" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/assets/svg/logo-john-lewis.svg" timestamp="1541166576603">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/index.js" timestamp="1541004855006">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
+        <mark key="^" line="19" column="6" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/GlobalNav/GlobalNav.vue" timestamp="1541001740994">
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+        <mark key="." line="12" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -187,7 +190,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -216,9 +219,9 @@
         <entry>set showmode</entry>
         <entry>set showmode!</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>m77</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
