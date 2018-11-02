@@ -48,10 +48,13 @@
         <mark key="." line="174" column="20" />
         <mark key="^" line="174" column="20" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/InStores/InStores.vue" timestamp="1541158768007">
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/InStores/InStores.vue" timestamp="1541160090126">
         <mark key="p" line="0" column="0" />
         <mark key="i" line="0" column="0" />
-        <mark key="[" line="39" column="48" />
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="6" />
+        <mark key="." line="23" column="7" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/VButton/VButton.vue" timestamp="1541158383500">
         <mark key="[" line="115" column="16" />
@@ -144,11 +147,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/InStores/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>GoogleLogoSquiggleHeade</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LnRhYi1uYXYgPj4+IC5pcy1hY3RpdmUgew==</text>
+        <text>GoogleLogoSquiggleHeade</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</text>
