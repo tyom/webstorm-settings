@@ -8,6 +8,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/InStores/index.js" timestamp="1541158278789">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/css/util.css" timestamp="1541085195555">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="42" column="47" />
@@ -44,6 +48,17 @@
         <mark key="." line="174" column="20" />
         <mark key="^" line="174" column="20" />
       </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/InStores/InStores.vue" timestamp="1541158768007">
+        <mark key="p" line="0" column="0" />
+        <mark key="i" line="0" column="0" />
+        <mark key="[" line="39" column="48" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/VButton/VButton.vue" timestamp="1541158383500">
+        <mark key="[" line="115" column="16" />
+        <mark key="]" line="115" column="17" />
+        <mark key="^" line="115" column="17" />
+        <mark key="." line="115" column="17" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" timestamp="1541086208850">
         <mark key="'" line="16" column="1" />
         <mark key="[" line="6" column="66" />
@@ -63,11 +78,11 @@
         <mark key="^" line="51" column="69" />
         <mark key="." line="51" column="69" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.test.js" timestamp="1541083827203">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="28" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.test.js" timestamp="1541157289088">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
         <mark key="^" line="36" column="28" />
-        <mark key="." line="36" column="28" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/index.js" timestamp="1541004855006">
         <mark key="[" line="17" column="1" />
@@ -88,8 +103,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541071582449">
-        <mark key="'" line="24" column="8" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541158260970">
+        <mark key="]" line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+        <mark key="." line="16" column="35" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541086340484">
         <mark key="p" line="0" column="0" />
@@ -124,10 +141,11 @@
       <jump line="16" column="1" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/home.js" />
       <jump line="107" column="2" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
       <jump line="77" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/InStores/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LnRhYi1uYXYgPj4+IC5pcy1hY3RpdmUgew==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LnRhYi1uYXYgPj4+IC5pcy1hY3RpdmUgew==</text>
@@ -139,31 +157,31 @@
         <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">dGVzdCgnc3BsaXRzIGNvbXBsZXggaGVhZGluZyBpbnRvIG11bHRpbGluZSBpbmxpbmUgYmxvY2tzJywgKCkgPT4gewogIGNvbnN0IHdyYXBwZXIgPSBzaGFsbG93TW91bnQoUHJvZHVjdFJhbmdlLCB7CiAgICBwcm9wc0RhdGE6IHsKICAgICAgaGVhZGluZzogJ1RoaXMuIEp1c3QgaW4uJywKICAgICAgcHJvZHVjdHM6IHByb2R1Y3RzTW9jaywKICAgIH0sCiAgICBzdHViczogWydWSW1naXgnXSwKICB9KTsKICBleHBlY3Qod3JhcHBlci5maW5kKCdzcXVpZ2dsZWhlYWRlci1zdHViJykpLnRvTWF0Y2hTbmFwc2hvdCgpOwp9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmhlYWRpbmcgc3BhbiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">LmhlYWRpbmcgc3BhbiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5oZWFkaW5nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnNwbGl0SGVhZGluZykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
