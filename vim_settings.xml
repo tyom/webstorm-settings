@@ -12,6 +12,9 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/ReadyToWakeUp/index.js" timestamp="1541431514883">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/YotpoReviews/YotpoReviews.vue" timestamp="1541087534527">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="83" column="0" />
@@ -36,12 +39,12 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/ReadyToWakeUp/ReadyToWakeUp.vue" timestamp="1541431510730">
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/ReadyToWakeUp/ReadyToWakeUp.vue" timestamp="1541433875708">
         <mark key="p" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="43" column="16" />
+        <mark key="^" line="43" column="16" />
+        <mark key="." line="43" column="16" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/HeroUnit/HeroUnit.vue" timestamp="1541008342308">
         <mark key="[" line="20" column="2" />
@@ -86,11 +89,8 @@
         <mark key="." line="217" column="25" />
         <mark key="^" line="217" column="25" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541174923742">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541434162703">
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/ProductRange/ProductRange.vue" timestamp="1541428273811">
         <mark key="p" line="0" column="0" />
@@ -203,11 +203,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/InStores.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>components</text>
       </register>
       <register name="-" type="4">
-        <text>tring</text>
+        <text>components</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</text>
@@ -273,6 +273,7 @@
         <entry>set showmode!</entry>
         <entry>q</entry>
         <entry>m77</entry>
+        <entry>m3</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
