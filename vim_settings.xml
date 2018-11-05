@@ -131,6 +131,12 @@
         <mark key="^" line="115" column="17" />
         <mark key="." line="115" column="17" />
       </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/HeroUnit/HeroUnit.vue" timestamp="1541418754667">
+        <mark key="[" line="44" column="12" />
+        <mark key="]" line="45" column="18" />
+        <mark key="^" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/assets/svg/logo-john-lewis.svg" timestamp="1541169011988">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="27" />
@@ -185,11 +191,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/InStores.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>35</text>
       </register>
       <register name="-" type="4">
-        <text>Lewis</text>
+        <text>35</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</text>
