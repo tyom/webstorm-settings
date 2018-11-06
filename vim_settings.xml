@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/HeroUnit/index.js" timestamp="1541006087639">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/ReadyToWakeUp/index.js" timestamp="1541431514883">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,11 +62,6 @@
         <mark key="." line="114" column="21" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1541522448245" />
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/assets/svg/logo-furniture-village.svg" timestamp="1541168994357">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/VIcon/VIcon.vue" timestamp="1541175231032">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="19" />
@@ -194,7 +184,6 @@
         <mark key="^" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/AccordionMenu/AccordionMenu.vue" timestamp="1541520594954">
-        <mark key="[" line="76" column="3" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
