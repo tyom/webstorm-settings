@@ -66,6 +66,7 @@
         <mark key="^" line="114" column="21" />
         <mark key="." line="114" column="21" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1541522448245" />
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/assets/svg/logo-furniture-village.svg" timestamp="1541168994357">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -97,6 +98,12 @@
         <mark key="]" line="12" column="38" />
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="38" />
+      </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/plugins/test/media-query.test.js" timestamp="1541522116007">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/css/util.css" timestamp="1541503655956">
         <mark key="[" line="50" column="40" />
@@ -221,11 +228,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/InStores.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvcHJlPgo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>padded</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</text>
@@ -234,31 +241,31 @@
         <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvcHJlPgo=</text>
+        <text encoding="base64">fSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAge3sgJG1xIH19Cg==</text>
+        <text encoding="base64">ICBhZGRMaXN0ZW5lcjogamVzdC5mbigpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxwcmU+ZGRkCg==</text>
+        <text encoding="base64">ICBtYXRjaGVzOiB0cnVlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">amVzdC5tb2NrKCd3aW5kb3cubWF0Y2hNZWRpYScsICgpID0+ICh7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAxZW0gMCAyZW0gMmVtOwo=</text>
+        <text encoding="base64">ICBsZXQgbWF0Y2hNZWRpYTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmxheW91dCB7Cg==</text>
+        <text encoding="base64">CiAgdGVzdCgndXBkYXRlcyAkbXEgb2JqZWN0IHdoZW4gbW91bnRlZCcsICgpID0+IHsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzPSJSZWFkeVRvV2FrZVVwTW9kdWxlIgo=</text>
+        <text encoding="base64">ICBiZWZvcmVFYWNoKCgpID0+IHsKICAgIG1hdGNoTWVkaWEgPSBqZXN0LmZuKCgpID0+IHsKICAgICAgcmV0dXJuIHsKICAgICAgICBtYXRjaGVzOiAnaSBtYXRjaCcsCiAgICAgICAgYWRkTGlzdGVuZXI6IGplc3QuZm4oKSwKICAgICAgfTsKICAgIH0pOwogICAgZ2xvYmFsLm1hdGNoTWVkaWEgPSBtYXRjaE1lZGlhOwogIH0pOwoKICBhZnRlckVhY2goKCkgPT4gewogICAgZGVsZXRlIGdsb2JhbC5tYXRjaE1lZGlhOwogIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
