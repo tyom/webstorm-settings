@@ -8,10 +8,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/InStores/index.js" timestamp="1541158278789">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/ReadyToWakeUp/index.js" timestamp="1541431514883">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,6 +108,12 @@
         <mark key="^" line="42" column="47" />
         <mark key="." line="42" column="47" />
       </file>
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/.storybook/config.js" timestamp="1541499241367">
+        <mark key="[" line="67" column="7" />
+        <mark key="]" line="68" column="2" />
+        <mark key="^" line="68" column="2" />
+        <mark key="." line="68" column="2" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/global.js" timestamp="1540987019237">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="14" column="29" />
@@ -204,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>components</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>components</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</text>
@@ -216,31 +218,31 @@
         <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXN1bHRpbmcgaW4gRk9VQy4K</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogYHVybCgnfi9hc3NldHMvc3ZnL3NpbWJhLWxvZ28uc3ZnJylgLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkYXRhLXYtPGlkPiBhdHRyaWJ1dGUgdG8gdGhlIG5lc3RlZCBJbWdpeCBjb21wb25lbnQuIFlldCBjbGllbnQgZG9lcywK</text>
+        <text encoding="base64">ICAgIGJyYW5kOiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBVc2luZyBkZWVwIHNlbGVjdG9yIHRvIHdvcmsgYXJvdW5kIE51eHQgaXNzdWUgd2hlcmUgU1NSIHdvdWxkIG5vdCBhcHBseQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGB1cmwoJ34vYXNzZXRzL3N2Zy9zaW1iYS1sb2dvLnN2ZycpYCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBicmFuZDogewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSW1naXgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2codGhlbWVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
