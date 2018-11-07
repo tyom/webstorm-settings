@@ -31,11 +31,11 @@
         <mark key="." line="114" column="21" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1541522448245" />
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/plugins/media-query.js" timestamp="1541591803765">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="9" column="16" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/plugins/media-query.js" timestamp="1541593275279">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/plugins/test/media-query.test.js" timestamp="1541522116007">
         <mark key="[" line="5" column="57" />
@@ -232,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxTZXJ2aWNlRmVhdHVyZXNNb2R1bGUgY2xhc3M9InNlcnZpY2UtZmVhdHVyZXMiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>padded</text>
+        <text>userAgent))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcXVpZ2dsZUhlYWRlclw+</text>
@@ -244,31 +244,31 @@
         <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxTZXJ2aWNlRmVhdHVyZXNNb2R1bGUgY2xhc3M9InNlcnZpY2UtZmVhdHVyZXMiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICBWdWUucHJvdG90eXBlLiRtcSA9IGluaXRpYWw7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDogZmFsc2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogQm9vbGVhbiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNpdmU6IHsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZpY2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwcmU+e3sgaXNMYXJnZXJTY3JlZW4gfX08L3ByZT4K</text>
+        <text encoding="base64">ICBjbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaXNDdXJyZW50VmFyaWFudDogdGhpcy5pc0N1cnJlbnRWYXJpYW50LAo=</text>
+        <text encoding="base64">ICAgIDxTZXJ2aWNlRmVhdHVyZXNNb2R1bGUgY2xhc3M9InNlcnZpY2UtZmVhdHVyZXMiLz4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDogZmFsc2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
