@@ -31,6 +31,12 @@
         <mark key="." line="114" column="21" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1541522448245" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/plugins/media-query.js" timestamp="1541590226617">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/plugins/test/media-query.test.js" timestamp="1541522116007">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="8" column="16" />
@@ -119,21 +125,11 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/page-modules/TryAtHome/TryAtHome.vue" timestamp="1541585844776">
-        <mark key="p" line="24" column="17" />
-        <mark key="[" line="60" column="49" />
-        <mark key="]" line="60" column="64" />
-        <mark key="^" line="60" column="64" />
-        <mark key="." line="60" column="64" />
-      </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/lang/en-GB/ui-messages.js" timestamp="1541176145559">
         <mark key="[" line="216" column="16" />
         <mark key="]" line="217" column="25" />
         <mark key="." line="217" column="25" />
         <mark key="^" line="217" column="25" />
-      </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/index.vue" timestamp="1541434162703">
-        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/Imgix/Imgix.vue" timestamp="1541428992248">
         <mark key="[" line="5" column="12" />
@@ -147,11 +143,11 @@
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/products/_type/_handle.vue" timestamp="1541503976942">
-        <mark key="[" line="2" column="44" />
-        <mark key="]" line="2" column="44" />
-        <mark key="." line="2" column="44" />
-        <mark key="^" line="2" column="44" />
+      <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/routes/products/_type/_handle.vue" timestamp="1541590483661">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Work/SimbaSleep/shopfront-frontend/src/components/AccordionMenu/AccordionMenuItem.vue" timestamp="1541519580498">
         <mark key="[" line="168" column="0" />
@@ -236,7 +232,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIDxTZXJ2aWNlRmVhdHVyZXNNb2R1bGUgY2xhc3M9InNlcnZpY2UtZmVhdHVyZXMiLz4K</text>
       </register>
       <register name="-" type="4">
         <text>padded</text>
@@ -248,31 +244,31 @@
         <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIDxTZXJ2aWNlRmVhdHVyZXNNb2R1bGUgY2xhc3M9InNlcnZpY2UtZmVhdHVyZXMiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDogZmFsc2UsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogQm9vbGVhbiwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNpdmU6IHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwcmU+e3sgaXNMYXJnZXJTY3JlZW4gfX08L3ByZT4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXNDdXJyZW50VmFyaWFudDogdGhpcy5pc0N1cnJlbnRWYXJpYW50LAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZGVmYXVsdDogZmFsc2UsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdHlwZTogQm9vbGVhbiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNpdmU6IHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxwcmU+e3sgaXNMYXJnZXJTY3JlZW4gfX08L3ByZT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgaXNDdXJyZW50VmFyaWFudDogdGhpcy5pc0N1cnJlbnRWYXJpYW50LAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRWYXJpYW50KCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
