@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="css" approved="true" type="CSS" />
-      <mapping ext="css" type="PostCSS" />
+      <mapping ext="css" type="PLAIN_TEXT" />
       <removed_mapping ext="css" approved="true" type="CSS" />
     </extensionMap>
   </component>
