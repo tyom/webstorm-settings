@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="theme" type="JavaScript" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
