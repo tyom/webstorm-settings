@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="css" approved="true" type="CSS" />
-      <mapping ext="css" type="PostCSS" />
-      <removed_mapping ext="css" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="theme" type="JavaScript" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
