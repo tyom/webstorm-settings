@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping pattern="theme" type="JavaScript" />
       <mapping ext="liquid" type="Twig" />
-      <mapping pattern="*.js.snap" type="Vue.js" />
+      <removed_mapping pattern="*.js.snap" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
