@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping pattern="theme" type="JavaScript" />
+      <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
       <removed_mapping pattern="*.js.snap" approved="true" type="JavaScript" />
     </extensionMap>
