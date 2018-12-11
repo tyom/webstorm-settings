@@ -1,8 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="css" approved="true" type="CSS" />
+      <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping pattern="theme" type="JavaScript" />
+      <mapping pattern=".nowignore" type="PLAIN_TEXT" />
+      <mapping ext="css" type="PostCSS" />
       <mapping ext="liquid" type="Twig" />
+      <removed_mapping pattern="*.js.snap" approved="true" type="JavaScript" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
     </extensionMap>
   </component>
 </application>
