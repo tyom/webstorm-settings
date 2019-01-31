@@ -1,6 +1,6 @@
 <code_scheme name="Tyom (Dracula)" version="173">
   <option name="SOFT_MARGINS" value="80" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
@@ -24,6 +24,7 @@
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
