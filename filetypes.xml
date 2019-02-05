@@ -1,15 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <removed_mapping ext="css" approved="true" type="CSS" />
+      <mapping pattern=".poirc" type="JSON" />
+      <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
-      <mapping pattern="theme" type="JavaScript" />
-      <mapping pattern=".env-example" type="PLAIN_TEXT" />
-      <mapping pattern=".nowignore" type="PLAIN_TEXT" />
-      <mapping ext="css" type="PostCSS" />
+      <mapping pattern=".postcss-loader" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".env.template" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="nginx.conf" type="nginx file type" />
+      <mapping ext="bats" type="Bash" />
       <mapping ext="liquid" type="Twig" />
-      <removed_mapping pattern="*.js.snap" approved="true" type="JavaScript" />
-      <removed_mapping ext="css" approved="true" type="CSS" />
+      <mapping ext="njk" type="Twig" />
+      <mapping ext="nunj" type="Twig" />
+      <mapping ext="nunjucks" type="Twig" />
+      <mapping ext="swig" type="Twig" />
     </extensionMap>
   </component>
 </application>
