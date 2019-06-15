@@ -14,17 +14,18 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".flowmonorc" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="nginx.conf" type="nginx file type" />
-      <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".browserslistrc" approved="true" type="Native" />
+      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="bats" type="Bash" />
       <mapping ext="liquid" type="Twig" />
