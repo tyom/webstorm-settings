@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".browserslistrc" type=".env file" />
+      <mapping ext="bats" type="Bash" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".poirc" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
@@ -14,7 +15,6 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".flowmonorc" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -23,11 +23,10 @@
       <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".browserslistrc" approved="true" type="Native" />
-      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="bats" type="Bash" />
       <mapping ext="liquid" type="Twig" />
       <mapping ext="njk" type="Twig" />
       <mapping ext="nunj" type="Twig" />
