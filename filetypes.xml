@@ -3,6 +3,8 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".browserslistrc" type=".env file" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".poirc" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
@@ -24,8 +26,11 @@
       <removed_mapping pattern=".browserslistrc" approved="true" type="Native" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="bats" type="Bash" />
       <mapping ext="liquid" type="Twig" />
       <mapping ext="njk" type="Twig" />
