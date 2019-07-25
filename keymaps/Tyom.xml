@@ -45,9 +45,6 @@
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
-  <action id="ExpandAllToLevel">
-    <keyboard-shortcut first-keystroke="meta alt 8" />
-  </action>
   <action id="ExpandToLevel">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
@@ -55,7 +52,6 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
-  <action id="Git.Branches" />
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
