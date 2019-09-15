@@ -22,6 +22,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="shrink-pdf" type="Shell Script" />
       <mapping pattern="nginx.conf" type="nginx file type" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
