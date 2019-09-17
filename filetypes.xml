@@ -12,6 +12,7 @@
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping pattern="create-pdf" type="JavaScript" />
       <mapping pattern=".postcss-loader" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
