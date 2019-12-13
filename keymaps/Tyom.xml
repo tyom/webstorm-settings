@@ -120,4 +120,7 @@
   <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
+  <action id="com.wallaby.javascript.actions.ShowValueAction">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
 </keymap>
