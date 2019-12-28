@@ -11,6 +11,7 @@
       <mapping ext="geojson" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping pattern="create-pdf" type="JavaScript" />
+      <mapping ext="mdx" type="Markdown" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
