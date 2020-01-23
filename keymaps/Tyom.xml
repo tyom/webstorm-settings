@@ -117,6 +117,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
