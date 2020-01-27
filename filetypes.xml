@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern=".browserslistrc" type=".env file" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping ext="gql" type="GraphQL" />
       <mapping pattern=".poirc" type="JSON" />
@@ -18,13 +17,12 @@
       <mapping pattern=".postcss-loader" type="PLAIN_TEXT" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern=".flowmonorc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".flowmonorc" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="css" type="PostCSS" />
       <mapping pattern="shrink-pdf" type="Shell Script" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
@@ -44,6 +42,7 @@
       <mapping ext="nunj" type="Twig" />
       <mapping ext="nunjucks" type="Twig" />
       <mapping ext="swig" type="Twig" />
+      <mapping pattern=".browserslistrc" type=".env file" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
