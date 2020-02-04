@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="184475-137819213763014" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__js-sec.indexww.com_ht_p_184475-137819213763014.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__js-sec.indexww.com_ht_p_184475-137819213763014.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="@types/expect.js" type="javaScript">
       <CLASSES />
       <SOURCES />
