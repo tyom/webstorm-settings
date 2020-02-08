@@ -213,8 +213,8 @@
         <entry key="EditorLineStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1581191868283" />
-              <option name="times" value="605" />
+              <option name="last" value="1581191885761" />
+              <option name="times" value="607" />
             </ActionSummary>
           </value>
         </entry>
@@ -605,8 +605,8 @@
         <entry key="com.intellij.openapi.vcs.ex.LocalLineStatusTracker$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581082909526" />
-              <option name="times" value="10" />
+              <option name="last" value="1581193140482" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581188234223" />
-              <option name="times" value="135" />
+              <option name="last" value="1581191878869" />
+              <option name="times" value="138" />
             </ActionSummary>
           </value>
         </entry>
