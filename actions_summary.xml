@@ -493,8 +493,8 @@
         <entry key="Git.ResolveConflicts">
           <value>
             <ActionSummary>
-              <option name="last" value="1581439832762" />
-              <option name="times" value="3" />
+              <option name="last" value="1581517003477" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="MinimizeCurrentWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581332967991" />
-              <option name="times" value="1" />
+              <option name="last" value="1581516931855" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -778,6 +778,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.diff.actions.ProxyUndoRedoAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581516967996" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
           <value>
             <ActionSummary>
@@ -893,8 +901,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581507009284" />
-              <option name="times" value="111" />
+              <option name="last" value="1581517034009" />
+              <option name="times" value="142" />
             </ActionSummary>
           </value>
         </entry>
