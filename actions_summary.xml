@@ -69,8 +69,8 @@
         <entry key="ActivateRunToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581523024048" />
-              <option name="times" value="420" />
+              <option name="last" value="1581524976492" />
+              <option name="times" value="421" />
             </ActionSummary>
           </value>
         </entry>
@@ -901,8 +901,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581522628129" />
-              <option name="times" value="150" />
+              <option name="last" value="1581524976870" />
+              <option name="times" value="151" />
             </ActionSummary>
           </value>
         </entry>
