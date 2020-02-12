@@ -69,8 +69,8 @@
         <entry key="ActivateRunToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581524976492" />
-              <option name="times" value="421" />
+              <option name="last" value="1581527048733" />
+              <option name="times" value="422" />
             </ActionSummary>
           </value>
         </entry>
@@ -893,8 +893,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581522042337" />
-              <option name="times" value="355" />
+              <option name="last" value="1581526636847" />
+              <option name="times" value="356" />
             </ActionSummary>
           </value>
         </entry>
