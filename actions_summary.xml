@@ -717,8 +717,8 @@
         <entry key="Stop">
           <value>
             <ActionSummary>
-              <option name="last" value="1581518802772" />
-              <option name="times" value="56" />
+              <option name="last" value="1581672002890" />
+              <option name="times" value="58" />
             </ActionSummary>
           </value>
         </entry>
@@ -901,8 +901,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581545779931" />
-              <option name="times" value="371" />
+              <option name="last" value="1581672005480" />
+              <option name="times" value="376" />
             </ActionSummary>
           </value>
         </entry>
