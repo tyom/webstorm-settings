@@ -93,8 +93,8 @@
         <entry key="CheckForUpdate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581522506689" />
-              <option name="times" value="10" />
+              <option name="last" value="1581692805752" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581688229296" />
-              <option name="times" value="3277" />
+              <option name="last" value="1581692692899" />
+              <option name="times" value="3278" />
             </ActionSummary>
           </value>
         </entry>
@@ -933,8 +933,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504979803" />
-              <option name="times" value="2" />
+              <option name="last" value="1581692668369" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
