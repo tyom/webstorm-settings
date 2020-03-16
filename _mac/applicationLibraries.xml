@@ -55,5 +55,16 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="auth0" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.auth0.com_js_auth0_9.10_auth0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.auth0.com_js_auth0_9.10_auth0.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
