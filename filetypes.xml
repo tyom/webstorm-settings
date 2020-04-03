@@ -5,6 +5,7 @@
       <mapping pattern=".browserslistrc" type=".env file" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern="Dockerfile.test" type="Dockerfile" />
+      <mapping ext="build" type="Dockerfile" />
       <mapping ext="gql" type="GraphQL" />
       <mapping pattern=".poirc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
