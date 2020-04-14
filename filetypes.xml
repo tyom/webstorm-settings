@@ -8,24 +8,23 @@
       <mapping ext="build" type="Dockerfile" />
       <mapping ext="gql" type="GraphQL" />
       <mapping pattern=".poirc" type="JSON" />
-      <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".quokka" type="JSON" />
+      <mapping pattern=".postcssrc" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping pattern="create-pdf" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".flowmonorc" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern=".flowmonorc" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="shrink-pdf" type="Shell Script" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
