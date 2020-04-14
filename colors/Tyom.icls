@@ -4,7 +4,7 @@
     <property name="created">2018-01-22T14:10:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2020-01-11T10:56:12</property>
+    <property name="modified">2020-04-14T10:01:54</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -27,6 +27,11 @@
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="7daee2" />
+      </value>
+    </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
