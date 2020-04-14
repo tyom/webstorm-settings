@@ -13,5 +13,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.liquid</mask>
+    <mask>*.feature</mask>
+    <mask>*.md</mask>
   </component>
 </application>
