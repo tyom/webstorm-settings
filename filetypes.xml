@@ -26,6 +26,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="css" type="PostCSS" />
       <mapping pattern="shrink-pdf" type="Shell Script" />
       <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="css" approved="true" type="CSS" />
