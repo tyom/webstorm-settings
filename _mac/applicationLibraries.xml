@@ -66,17 +66,6 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="normalize.css" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_normalize.css_normalize.css" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_normalize.css_normalize.css" />
-      </CLASSES>
-      <SOURCES />
-    </library>
     <library name="tinypass" type="javaScript">
       <properties>
         <sourceFilesUrls>
