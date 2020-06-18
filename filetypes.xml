@@ -8,6 +8,7 @@
       <mapping pattern="Dockerfile.test" type="Dockerfile" />
       <mapping ext="build" type="Dockerfile" />
       <mapping ext="gql" type="GraphQL" />
+      <mapping pattern=".dockerignore" type="IgnoreLang file" />
       <mapping pattern=".poirc" type="JSON" />
       <mapping pattern=".quokka" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
