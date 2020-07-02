@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Source files" />
-    <option name="defaultScopeName" value="Source files" />
-    <option name="SEARCH_SCOPE" value="Source files" />
+    <option name="customScope" value="Fixtures" />
+    <option name="defaultScopeName" value="Fixtures" />
+    <option name="SEARCH_SCOPE" value="Fixtures" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
