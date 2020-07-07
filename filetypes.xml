@@ -28,7 +28,13 @@
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="css" type="PostCSS" />
       <mapping pattern="shrink-pdf" type="Shell Script" />
+      <mapping ext="liquid" type="Twig" />
+      <mapping ext="nunjucks" type="Twig" />
+      <mapping ext="njk" type="Twig" />
+      <mapping ext="swig" type="Twig" />
+      <mapping ext="nunj" type="Twig" />
       <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -44,11 +50,6 @@
       <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="bats" type="Bash" />
-      <mapping ext="liquid" type="Twig" />
-      <mapping ext="njk" type="Twig" />
-      <mapping ext="nunj" type="Twig" />
-      <mapping ext="nunjucks" type="Twig" />
-      <mapping ext="swig" type="Twig" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
