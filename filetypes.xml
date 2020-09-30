@@ -15,7 +15,6 @@
       <mapping ext="geojson" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping pattern="create-pdf" type="JavaScript" />
-      <mapping ext="mdx" type="Markdown" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
