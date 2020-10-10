@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Source files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Source files" />
+    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +19,6 @@
     <mask>*.feature</mask>
     <mask>*.md</mask>
     <mask>*.stories.js</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
