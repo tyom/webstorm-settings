@@ -66,5 +66,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="tinypass" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.tinypass.com_api_tinypass.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.tinypass.com_api_tinypass.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
