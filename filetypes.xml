@@ -1,47 +1,45 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".browserslistrc" type=".env file" />
-      <removed_mapping ext="css" approved="true" type="CSS" />
-      <mapping pattern="Dockerfile.func" type="Dockerfile" />
       <mapping pattern="Dockerfile.test" type="Dockerfile" />
+      <mapping pattern="Dockerfile.func" type="Dockerfile" />
       <mapping ext="build" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
-      <mapping pattern=".poirc" type="JSON" />
-      <mapping pattern=".quokka" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
+      <mapping pattern=".quokka" type="JSON" />
+      <mapping pattern=".poirc" type="JSON" />
       <mapping ext="geojson" type="JSON" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping pattern="create-pdf" type="JavaScript" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
-      <mapping pattern=".flowmonorc" type="PLAIN_TEXT" />
-      <mapping pattern=".env.template" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern=".env.template" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".flowmonorc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping ext="css" type="PostCSS" />
       <mapping pattern="shrink-pdf" type="Shell Script" />
-      <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="css" approved="true" type="CSS" />
-      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Dockerfile.functional" approved="true" type="Dockerfile" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".browserslistrc" approved="true" type="Native" />
-      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".browserslist" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".browserslistrc" approved="true" type="Native" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile.functional" approved="true" type="Dockerfile" />
       <mapping ext="bats" type="Bash" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
