@@ -11,6 +11,7 @@
       <mapping pattern=".quokka" type="JSON" />
       <mapping pattern=".poirc" type="JSON" />
       <mapping ext="geojson" type="JSON" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="*.js.snap" type="JSX Harmony" />
       <mapping pattern="create-pdf" type="JavaScript" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
