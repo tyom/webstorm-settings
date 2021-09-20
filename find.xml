@@ -15,7 +15,7 @@
     <mask>*.liquid</mask>
     <mask>*.feature</mask>
     <mask>*.md</mask>
-    <mask>*.stories.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.stories.js</mask>
   </component>
 </application>
